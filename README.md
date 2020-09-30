@@ -1,9 +1,11 @@
 ## Instructions to recreate unitTest in the simplest form:
 > **for bash CLI**
 
-*npm stands for Node Package Manager, which should be installed beforehand*
-*"sum.js" is a main program; similar should already be placed*
-*"sum.test.js" implements JEST testing framework*
+:grey_exclamation:*npm stands for Node Package Manager, which should be installed beforehand*
+
+:grey_exclamation:*"sum.js" is a main program; similar should already be placed*
+
+:grey_exclamation:*"sum.test.js" implements JEST testing framework*
 
 ### Steps:
 
