@@ -1,11 +1,11 @@
 ## Instructions to recreate unitTest in the simplest form:
-> *for bash CLI*
+> **for bash CLI**
 
-@ npm stands for Node Package Manager, which should be installed beforehand.
+*npm stands for Node Package Manager, which should be installed beforehand*
+*"sum.js" is a main program; similar should already be placed*
+*"sum.test.js" implements JEST testing framework*
 
-@ "sum.js" is a main program; similar should already be placed.
-
-@ "sum.test.js" implements JEST testing framework.
+### Steps:
 
 1. "mkdir SimpleUnitTest" create directory;
 2. "cd SimpleUnitTest" change working directory;
